@@ -1,0 +1,6 @@
+name: TolfiyaEarth
+version: '${project.version}'
+main: me.mrfunny.plugins.spigot.tolfiyaearth.TolfiyaEarth
+author: MisterFunny01
+api-version: 1.17
+load: STARTUP
